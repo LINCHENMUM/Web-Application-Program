@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Thu May 25 23:08:16 CDT 2017
+org.eclipse.jst.jee.server\:W3D2-cookie=D\:\\apache-tomcat-8.0.43\\wtpwebapps\\W3D2-cookie
+org.eclipse.jst.jee.server\:GuestListTomcatMay17=D\:\\apache-tomcat-8.0.43\\wtpwebapps\\GuestListTomcatMay17
+org.eclipse.jst.jee.server\:GSS_WAP_PROJECT=D\:\\apache-tomcat-8.0.43\\wtpwebapps\\GSS_WAP_PROJECT

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.Pattern"/>
+<fullyQualifiedTypeName name="bean.wap.project.Comment"/>
+<fullyQualifiedTypeName name="utils.wap.project.dbcon"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.wap.dao.imp.CommentDAO"/>
+<fullyQualifiedTypeName name="com.wap.dao.imp.commentDaoImplementation"/>
+<fullyQualifiedTypeName name="com.wap.model.CommentModel"/>
+<fullyQualifiedTypeName name="com.wap.dao.imp.LikeDAO"/>
+<fullyQualifiedTypeName name="com.wap.dao.imp.likeDaoImplementation"/>
+<fullyQualifiedTypeName name="com.wap.model.LikeModel"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+<fullyQualifiedTypeName name="com.google.gson.Gson"/>
+<fullyQualifiedTypeName name="sun.rmi.server.Util"/>
+<fullyQualifiedTypeName name="com.sun.glass.ui.Application"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletContext"/>
+<fullyQualifiedTypeName name="com.wap.utility.DBcon"/>
+<fullyQualifiedTypeName name="com.wap.dao.imp.PostdataDAO"/>
+<fullyQualifiedTypeName name="com.wap.dao.imp.postdataDaoImplementation"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.wap.model.PostdataModel"/>
+</qualifiedTypeNameHistroy>
